@@ -14,7 +14,7 @@ export default function Header() {
           <Feather name="heart" size={36} color="black" />
         </TouchableOpacity>
         <TouchableOpacity>
-          <FontAwesome name="location-arrow" size={36} color="black" />
+          <Feather name="message-circle" size={36} color="black" />
         </TouchableOpacity>
       </View>
     </View>

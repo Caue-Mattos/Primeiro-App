@@ -24,5 +24,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     marginTop: 35,
+    padding: 5,
+    borderRadius: 5,
   },
 });

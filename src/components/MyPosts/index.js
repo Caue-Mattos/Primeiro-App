@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     posts: {
         flexDirection: "row",
         flexWrap: "wrap",
-        marginHorizontal: 5,
+        justifyContent: "center",
         gap: 5,
     },
 
