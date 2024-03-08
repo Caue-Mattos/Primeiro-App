@@ -12,17 +12,17 @@ export default function Home() {
       <Stories/>
       <View style={styles.borda}></View>
         <Post style={styles.post}
-        profileName={"Fulano da Silva"}
+        profileName={"Cauê Mattos"}
         profileImage={PessoaProfile}
         postImage={postImage}
         description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet euismod lorem, vel tristique nisl egestas nec. In rutrum nibh in quam suscipit mollis. In accumsan egestas tellus, id porttitor risus dictum non. "}/>
       <Post
-        profileName={"Fulano da Silva"}
+        profileName={"Cauê Mattos"}
         profileImage={PessoaProfile}
         postImage={postImage}
         description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet euismod lorem, vel tristique nisl egestas nec. In rutrum nibh in quam suscipit mollis. In accumsan egestas tellus, id porttitor risus dictum non. "}/>
       <Post
-        profileName={"Fulano da Silva"}
+        profileName={"Cauê Mattos"}
         profileImage={PessoaProfile}
         postImage={postImage}
         description={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla laoreet euismod lorem, vel tristique nisl egestas nec. In rutrum nibh in quam suscipit mollis. In accumsan egestas tellus, id porttitor risus dictum non. "}/>
